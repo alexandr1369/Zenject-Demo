@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cba1cf564d2b29742bf5db31d48ab9aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - btnDownAudioClip: {fileID: 8300000, guid: d2b6110872b663f4c9d490bd99ce6a12, type: 3}
+  - btnUpAudioClip: {fileID: 8300000, guid: 2c0804b149f8c0f498b68859863b88d7, type: 3}
+  - panel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

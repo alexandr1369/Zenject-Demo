@@ -1,0 +1,208 @@
+{
+	"List": [
+		{
+			"Id": "au19_bg_0_0_d",
+			"Type": "Texture",
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_0_1_d",
+			"Type": "Texture",
+			"X": 5.12,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_0_2_d",
+			"Type": "Texture",
+			"X": 10.24,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_0_3_d",
+			"Type": "Texture",
+			"X": 15.36,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_0_4_d",
+			"Type": "Texture",
+			"X": 20.48,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_0_5_d",
+			"Type": "Texture",
+			"X": 25.6,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_0_6_d",
+			"Type": "Texture",
+			"X": 30.72,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_0_7_d",
+			"Type": "Texture",
+			"X": 35.84,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_0_8_d",
+			"Type": "Texture",
+			"X": 40.96,
+			"Width": 1.30,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_1_0_d",
+			"Type": "Texture",
+			"Y": -5.12,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_1_1_d",
+			"Type": "Texture",
+			"X": 5.12,
+			"Y": -5.12,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_1_2_d",
+			"Type": "Texture",
+			"X": 10.24,
+			"Y": -5.12,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_1_3_d",
+			"Type": "Texture",
+			"X": 15.36,
+			"Y": -5.12,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_1_4_d",
+			"Type": "Texture",
+			"X": 20.48,
+			"Y": -5.12,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_1_5_d",
+			"Type": "Texture",
+			"X": 25.6,
+			"Y": -5.12,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_1_6_d",
+			"Type": "Texture",
+			"X": 30.72,
+			"Y": -5.12,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_1_7_d",
+			"Type": "Texture",
+			"X": 35.84,
+			"Y": -5.12,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_1_8_d",
+			"Type": "Texture",
+			"X": 40.96,
+			"Y": -5.12,
+			"Width": 1.30,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_2_0_h",
+			"Type": "Texture",
+			"Y": -10.24,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_2_1_d",
+			"Type": "Texture",
+			"X": 5.12,
+			"Y": -10.24,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_2_2_d",
+			"Type": "Texture",
+			"X": 10.24,
+			"Y": -10.24,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_2_3_d",
+			"Type": "Texture",
+			"X": 15.36,
+			"Y": -10.24,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_2_4_d",
+			"Type": "Texture",
+			"X": 20.48,
+			"Y": -10.24,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_2_5_d",
+			"Type": "Texture",
+			"X": 25.6,
+			"Y": -10.24,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_2_6_d",
+			"Type": "Texture",
+			"X": 30.72,
+			"Y": -10.24,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_2_7_d",
+			"Type": "Texture",
+			"X": 35.84,
+			"Y": -10.24,
+			"Width": 5.12,
+			"Height": 5.12
+		},
+		{
+			"Id": "au19_bg_2_8_d",
+			"Type": "Texture",
+			"X": 40.96,
+			"Y": -10.24,
+			"Width": 1.30,
+			"Height": 5.12
+		}
+	]
+}
